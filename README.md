@@ -1,2 +1,2 @@
 # outlier-detection
-Outlier Detection using z-score and Mean Absolute Deviation (MAD)
+Outlier Detection using z-score, Mean Absolute Deviation (MAD), and interquartile range (IQR)
